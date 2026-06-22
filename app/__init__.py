@@ -1,0 +1,1 @@
+"""Graveyard Keeper catalog API."""

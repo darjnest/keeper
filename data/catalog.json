@@ -1,0 +1,2857 @@
+{
+  "source": "Official Graveyard Keeper Wiki (Fandom)",
+  "license": "CC BY-NC-SA; preserve attribution and verify intended use.",
+  "updated_at": "2026-06-22T22:07:22.889355Z",
+  "recipes": [
+    {
+      "id": "alchemy-acceleration-powder",
+      "output": "Acceleration powder",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Alcohol",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "Life extract",
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-acid",
+      "output": "Acid",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Toxic powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Chaos solution",
+          "quantity": 1.0
+        },
+        {
+          "name": "Toxic extract",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 10",
+      "notes": "Main component of Acid injection (-1 , -1 )",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-alcohol",
+      "output": "Alcohol",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Slowing solution",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": null,
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-alkali",
+      "output": "Alkali",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Life powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Death solution",
+          "quantity": 1.0
+        },
+        {
+          "name": "Blood",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 10",
+      "notes": "Main component of Lye injection (+1 , +1 )",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-aromatizer",
+      "output": "Aromatizer",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Acceleration powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Alcohol",
+          "quantity": 1.0
+        },
+        {
+          "name": "Life extract",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 10",
+      "notes": "Main component for Incense II",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-ash",
+      "output": "Ash",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Toxic solution",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "Life extract",
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-balsamic-solution",
+      "output": "Balsamic solution",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Chaos powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Water",
+          "quantity": 1.0
+        },
+        {
+          "name": "Death extract",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 10",
+      "notes": "Main component of Restore injection",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-berserk-potion",
+      "output": "Berserk potion",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Toxic powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Death solution",
+          "quantity": 1.0
+        },
+        {
+          "name": "Death extract",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 10",
+      "notes": "Increases damage dealt while draining health over time",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-black-paint",
+      "output": "Black paint",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Graphite powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Water",
+          "quantity": 1.0
+        },
+        {
+          "name": "Ash",
+          "quantity": 1.0
+        },
+        {
+          "name": "Oil",
+          "quantity": 1.0
+        },
+        {
+          "name": "Death powder",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "Main component for Ink",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-blue-paint",
+      "output": "Blue Paint",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Acceleration powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Oil",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "Used in home decorating",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-brown-paint",
+      "output": "Brown Paint",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Slowing powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Oil",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "Used in home decorating",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-chaos-powder",
+      "output": "Chaos powder",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Death solution",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "Toxic extract",
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-dark-elixir",
+      "output": "Dark elixir",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Death powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Blood",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "Main component for Dark injection (+2 )",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-dark-green-paint",
+      "output": "Dark Green Paint",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Health powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Oil",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "Used in home decorating",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-dark-violet-paint",
+      "output": "Dark Violet Paint",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Death powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Oil",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "Used in home decorating",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-death-powder",
+      "output": "Death powder",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Blood",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": null,
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-digestion-potion",
+      "output": "Digestion potion",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Health powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Toxic solution",
+          "quantity": 1.0
+        },
+        {
+          "name": "Acceleration extract",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 10",
+      "notes": "Increases energy gain from food",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-electric-powder",
+      "output": "Electric powder",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Water",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": null,
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-energy-elixir",
+      "output": "Energy elixir",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Acceleration powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Slowing solution",
+          "quantity": 1.0
+        },
+        {
+          "name": "Slowing powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Acceleration solution",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "Main component for Boost fertilizer I and Boost fertilizer II",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-energy-potion",
+      "output": "Energy potion",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Acceleration powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Acceleration solution",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "+ 50 on use",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-flavor-enhancer",
+      "output": "Flavor enhancer",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Ash",
+          "quantity": 1.0
+        },
+        {
+          "name": "Toxic solution",
+          "quantity": 1.0
+        },
+        {
+          "name": "Life extract",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 10",
+      "notes": "Main component for Quality fertilizer II",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-freshener",
+      "output": "Freshener",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Oil",
+          "quantity": 1.0
+        },
+        {
+          "name": "Order solution",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "Main component for Incense",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-glue",
+      "output": "Glue",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Health powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Life solution",
+          "quantity": 1.0
+        },
+        {
+          "name": "Chaos extract",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 10",
+      "notes": "Main component of Glue injection (+1 )",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-gold-powder",
+      "output": "Gold powder",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Order solution",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "Health extract",
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-golden-elixir",
+      "output": "Golden elixir",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Gold powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Toxic solution",
+          "quantity": 1.0
+        },
+        {
+          "name": "Chaos extract",
+          "quantity": 1.0
+        },
+        {
+          "name": "Order solution",
+          "quantity": 1.0
+        },
+        {
+          "name": "Health extract",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 10",
+      "notes": "Main component of Gold injection (+2 , -2 )",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-graphite-powder",
+      "output": "Graphite powder",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Water",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": null,
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-green-paint",
+      "output": "Green Paint",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Order powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Oil",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "Used in home decorating",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-growth-enhancer",
+      "output": "Growth enhancer",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Ash",
+          "quantity": 1.0
+        },
+        {
+          "name": "Life solution",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "Main component for Quality fertilizer I",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-heal-potion",
+      "output": "Heal potion",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Health powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Chaos solution",
+          "quantity": 1.0
+        },
+        {
+          "name": "Life powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Health solution",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "+ 50 on use",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-health-powder",
+      "output": "Health powder",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Toxic solution",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "Acceleration extract",
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-life-powder",
+      "output": "Life powder",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Death solution",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "Blood",
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-mill-acceleration-powder",
+      "output": "Acceleration powder",
+      "output_quantity": 3.0,
+      "ingredients": [
+        {
+          "name": "Honey",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy mill",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy_mill"
+    },
+    {
+      "id": "alchemy-mill-chaos-powder",
+      "output": "Chaos powder",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Bat wing",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy mill",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy_mill"
+    },
+    {
+      "id": "alchemy-mill-death-powder",
+      "output": "Death powder",
+      "output_quantity": 3.0,
+      "ingredients": [
+        {
+          "name": "Dark intestine",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy mill",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy_mill"
+    },
+    {
+      "id": "alchemy-mill-electric-powder",
+      "output": "Electric powder",
+      "output_quantity": 2.0,
+      "ingredients": [
+        {
+          "name": "Eel",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy mill",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy_mill"
+    },
+    {
+      "id": "alchemy-mill-gold-powder",
+      "output": "Gold powder",
+      "output_quantity": 4.0,
+      "ingredients": [
+        {
+          "name": "Gold nugget",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy mill",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy_mill"
+    },
+    {
+      "id": "alchemy-mill-graphite-powder",
+      "output": "Graphite powder",
+      "output_quantity": 2.0,
+      "ingredients": [
+        {
+          "name": "Graphite",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy mill",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy_mill"
+    },
+    {
+      "id": "alchemy-mill-health-powder",
+      "output": "Health powder",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Crop waste",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy mill",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy_mill"
+    },
+    {
+      "id": "alchemy-mill-life-powder",
+      "output": "Life powder",
+      "output_quantity": 2.0,
+      "ingredients": [
+        {
+          "name": "Sulfur",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy mill",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy_mill"
+    },
+    {
+      "id": "alchemy-mill-order-powder",
+      "output": "?× Order powder",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Faceted emerald",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy mill",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy_mill"
+    },
+    {
+      "id": "alchemy-mill-silver-powder",
+      "output": "Silver powder",
+      "output_quantity": 4.0,
+      "ingredients": [
+        {
+          "name": "Silver nugget",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy mill",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy_mill"
+    },
+    {
+      "id": "alchemy-mill-slowing-powder",
+      "output": "?× Slowing powder",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Pyrite",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy mill",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy_mill"
+    },
+    {
+      "id": "alchemy-mill-toxic-powder",
+      "output": "Toxic powder",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Red flower",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy mill",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy_mill"
+    },
+    {
+      "id": "alchemy-mill-white-powder",
+      "output": "White powder",
+      "output_quantity": 2.0,
+      "ingredients": [
+        {
+          "name": "Limestone",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy mill",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy_mill"
+    },
+    {
+      "id": "alchemy-oil",
+      "output": "Oil",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Order solution",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": null,
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-order-powder",
+      "output": "Order powder",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Slowing solution",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "Slowing extract",
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-preservative",
+      "output": "Preservative",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Slowing powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Life solution",
+          "quantity": 1.0
+        },
+        {
+          "name": "Slowing extract",
+          "quantity": 1.0
+        },
+        {
+          "name": "Life powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Slowing solution",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 10",
+      "notes": "Main component of Preservative injection",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-protection-potion",
+      "output": "Protection potion",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Order powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Slowing solution",
+          "quantity": 1.0
+        },
+        {
+          "name": "Slowing extract",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 10",
+      "notes": "Reduces damage received",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-rage-potion",
+      "output": "Rage potion",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Chaos powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Death solution",
+          "quantity": 1.0
+        },
+        {
+          "name": "Toxic extract",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 10",
+      "notes": "Increases damage dealt",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-red-paint",
+      "output": "Red Paint",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Toxic powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Oil",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "Used in home decorating",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-restoring-potion",
+      "output": "Restoring potion",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Order powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Health solution",
+          "quantity": 1.0
+        },
+        {
+          "name": "Health extract",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 10",
+      "notes": "Slowly restores health",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-salt",
+      "output": "Salt",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Health solution",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": null,
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-silver-elixir",
+      "output": "Silver elixir",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Silver powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Order solution",
+          "quantity": 1.0
+        },
+        {
+          "name": "Life extract",
+          "quantity": 1.0
+        },
+        {
+          "name": "Chaos solution",
+          "quantity": 1.0
+        },
+        {
+          "name": "Order extract",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 10",
+      "notes": "Main component of Silver injection (+1 , -1 )",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-silver-powder",
+      "output": "Silver powder",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Chaos solution",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "Order extract",
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-slowing-powder",
+      "output": "Slowing powder",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Death solution",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "Order extract",
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-speed-potion",
+      "output": "Speed potion",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Acceleration powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Chaos solution",
+          "quantity": 1.0
+        },
+        {
+          "name": "Blood",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 10",
+      "notes": "Increases movement speed",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-spices",
+      "output": "Spices",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Salt",
+          "quantity": 1.0
+        },
+        {
+          "name": "Health solution",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "Quest item for Merchant",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-tanning-agent",
+      "output": "Tanning agent",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Slowing powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Death solution",
+          "quantity": 1.0
+        },
+        {
+          "name": "Order extract",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 10",
+      "notes": "Main component for Hard cover",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-toxic-powder",
+      "output": "Toxic powder",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Death solution",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "Death extract",
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-violet-paint",
+      "output": "Violet Paint",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Chaos powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Oil",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "Used in home decorating",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-white-paint",
+      "output": "White paint",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "White powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Oil",
+          "quantity": 1.0
+        },
+        {
+          "name": "Alcohol",
+          "quantity": 1.0
+        },
+        {
+          "name": "Slowing solution",
+          "quantity": 1.0
+        },
+        {
+          "name": "Electric powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Water",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "Required to craft some Candles and mass-produced Clean paper",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-white-powder",
+      "output": "White powder",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Oil",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": null,
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-yellow-paint",
+      "output": "Yellow Paint",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Life powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Oil",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "Used in home decorating",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "alchemy-zombie-juice",
+      "output": "Zombie juice",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Health powder",
+          "quantity": 1.0
+        },
+        {
+          "name": "Blood",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Alchemy",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "Main component for Zombie",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Alchemy"
+    },
+    {
+      "id": "cooking-a-bowl-of-lentils",
+      "output": "A bowl of lentils",
+      "output_quantity": 10.0,
+      "ingredients": [
+        {
+          "name": "Water",
+          "quantity": 5.0
+        },
+        {
+          "name": "Lentils",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 20.0,
+      "time": "0:35",
+      "energy": "+ 25 each + 30 each + 36 each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-a-bowl-of-pumpkin-soup",
+      "output": "A bowl of pumpkin soup",
+      "output_quantity": 20.0,
+      "ingredients": [
+        {
+          "name": "Jug of milk",
+          "quantity": 5.0
+        },
+        {
+          "name": "Pumpkin",
+          "quantity": 10.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 20.0,
+      "time": "0:40",
+      "energy": "+ 24 , each + 30 , each + 36 , each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-a-bowl-of-sauerkraut",
+      "output": "A bowl of sauerkraut",
+      "output_quantity": 15.0,
+      "ingredients": [
+        {
+          "name": "Cabbage",
+          "quantity": 15.0
+        },
+        {
+          "name": "Carrot",
+          "quantity": 10.0
+        },
+        {
+          "name": "Salt",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "+ 30 , each",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-baked-apple",
+      "output": "Baked apple",
+      "output_quantity": 5.0,
+      "ingredients": [
+        {
+          "name": "Red apple",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 5.0,
+      "time": "0:30",
+      "energy": "+ 6 each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-baked-fish",
+      "output": "Baked fish",
+      "output_quantity": 10.0,
+      "ingredients": [
+        {
+          "name": "White fish fillet",
+          "quantity": 10.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 10.0,
+      "time": "0:25",
+      "energy": "+ 18 , each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-baked-kebab",
+      "output": "Baked kebab",
+      "output_quantity": 6.0,
+      "ingredients": [
+        {
+          "name": "Quality fish fillet",
+          "quantity": 1.0
+        },
+        {
+          "name": "Edible mushroom or",
+          "quantity": 5.0
+        },
+        {
+          "name": "Blue fish fillet",
+          "quantity": 1.0
+        },
+        {
+          "name": "Edible mushroom",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 20.0,
+      "time": "1:10",
+      "energy": "+ 20 each + 25 each + 35 each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-baked-meat",
+      "output": "Baked meat",
+      "output_quantity": 10.0,
+      "ingredients": [
+        {
+          "name": "Raw sliced meat",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 20.0,
+      "time": "0:35",
+      "energy": "+ 18 each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-baked-mushrooms",
+      "output": "Baked mushrooms",
+      "output_quantity": 3.0,
+      "ingredients": [
+        {
+          "name": "Edible mushroom",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 5.0,
+      "time": "0:25",
+      "energy": "+ 10 each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-baked-pumpkin",
+      "output": "Baked pumpkin",
+      "output_quantity": 15.0,
+      "ingredients": [
+        {
+          "name": "pumpkin",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 20.0,
+      "time": "0:40",
+      "energy": "+ 18 , each + 24 , each + 30 , each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-baked-salmon",
+      "output": "Baked salmon",
+      "output_quantity": 15.0,
+      "ingredients": [
+        {
+          "name": "cabbage",
+          "quantity": 5.0
+        },
+        {
+          "name": "Quality fish fillet",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 10.0,
+      "time": "1:05",
+      "energy": "+ 36 each + 53 each + 70 each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-beet-slices",
+      "output": "Beet slices",
+      "output_quantity": 5.0,
+      "ingredients": [
+        {
+          "name": "Beet",
+          "quantity": 10.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 20.0,
+      "time": "0:35",
+      "energy": "+ 18 each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-berry-juice",
+      "output": "Berry juice",
+      "output_quantity": 5.0,
+      "ingredients": [
+        {
+          "name": "Red apple",
+          "quantity": 15.0
+        },
+        {
+          "name": "Berry",
+          "quantity": 15.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-berry-pie",
+      "output": "Berry pie",
+      "output_quantity": 10.0,
+      "ingredients": [
+        {
+          "name": "Pastry dough",
+          "quantity": 5.0
+        },
+        {
+          "name": "Berry juice",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 20.0,
+      "time": "0:45",
+      "energy": "+ 35 each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-blue-fish-fillet",
+      "output": "Blue fish fillet",
+      "output_quantity": 15.0,
+      "ingredients": [
+        {
+          "name": "Salmon or",
+          "quantity": 5.0
+        },
+        {
+          "name": "Sturgeon or",
+          "quantity": 5.0
+        },
+        {
+          "name": "Carp",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": null,
+      "time": null,
+      "energy": "- 8 to - 10",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-boiled-egg",
+      "output": "Boiled egg",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Chicken egg",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 1.0,
+      "time": "0:10",
+      "energy": "+ 20 each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-bread",
+      "output": "Bread",
+      "output_quantity": 10.0,
+      "ingredients": [
+        {
+          "name": "Dough",
+          "quantity": 10.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 10.0,
+      "time": "1:00",
+      "energy": "+ 15 each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-burger",
+      "output": "Burger",
+      "output_quantity": 40.0,
+      "ingredients": [
+        {
+          "name": "bread",
+          "quantity": 20.0
+        },
+        {
+          "name": "Baked meat",
+          "quantity": 20.0
+        },
+        {
+          "name": "Onion",
+          "quantity": 15.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "Base downgrade: +0.2 + 30 each + 35 each + 40 each",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-cabbage-soup",
+      "output": "Cabbage soup",
+      "output_quantity": 20.0,
+      "ingredients": [
+        {
+          "name": "Cabbage",
+          "quantity": 10.0
+        },
+        {
+          "name": "Beet",
+          "quantity": 5.0
+        },
+        {
+          "name": "Onion",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 80.0,
+      "time": "1:30",
+      "energy": "+ 36 each + 42 each + 48 each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-cake",
+      "output": "Cake",
+      "output_quantity": 5.0,
+      "ingredients": [
+        {
+          "name": "Pastry dough",
+          "quantity": 5.0
+        },
+        {
+          "name": "Honey",
+          "quantity": 5.0
+        },
+        {
+          "name": "Berry",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 20.0,
+      "time": "0:45",
+      "energy": "+ 95 , each",
+      "notes": "Recipe obtained from Dig .",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-carrot-cutlet",
+      "output": "Carrot cutlet",
+      "output_quantity": 20.0,
+      "ingredients": [
+        {
+          "name": "Carrot",
+          "quantity": 10.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 20.0,
+      "time": "0:35",
+      "energy": "+ 15 each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-ceramic-funeral-urn",
+      "output": "Ceramic funeral urn",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Ceramic jug",
+          "quantity": 1.0
+        },
+        {
+          "name": "Ash",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": null,
+      "time": null,
+      "energy": "- 3",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-cheese-patty",
+      "output": "Cheese patty",
+      "output_quantity": 6.0,
+      "ingredients": [
+        {
+          "name": "Cheese",
+          "quantity": 1.0
+        },
+        {
+          "name": "Dough",
+          "quantity": 2.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 20.0,
+      "time": "0:35",
+      "energy": "+ 16 , each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-cheese-pie",
+      "output": "Cheese pie",
+      "output_quantity": 2.0,
+      "ingredients": [
+        {
+          "name": "Cheese",
+          "quantity": 1.0
+        },
+        {
+          "name": "Pastry dough",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 15.0,
+      "time": "0:45",
+      "energy": "+ 35 , each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-cream-of-mushroom-soup",
+      "output": "Cream of mushroom soup",
+      "output_quantity": 4.0,
+      "ingredients": [
+        {
+          "name": "Edible mushroom",
+          "quantity": 6.0
+        },
+        {
+          "name": "Jug of milk",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 15.0,
+      "time": "0:45",
+      "energy": "+ 13 , each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-creamy-vegetable-soup",
+      "output": "Creamy vegetable soup",
+      "output_quantity": 4.0,
+      "ingredients": [
+        {
+          "name": "carrot",
+          "quantity": 1.0
+        },
+        {
+          "name": "lentils",
+          "quantity": 1.0
+        },
+        {
+          "name": "pumpkin",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 10.0,
+      "time": "0:40",
+      "energy": "+ 15 , each + 20 , each + 25 , each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-croissant",
+      "output": "Croissant",
+      "output_quantity": 20.0,
+      "ingredients": [
+        {
+          "name": "Dough",
+          "quantity": 5.0
+        },
+        {
+          "name": "Honey",
+          "quantity": 5.0
+        },
+        {
+          "name": "Chicken egg",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 40.0,
+      "time": "0:45",
+      "energy": "+ 30 each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-dinner",
+      "output": "Dinner",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Snacks",
+          "quantity": 1.0
+        },
+        {
+          "name": "Meals",
+          "quantity": 1.0
+        },
+        {
+          "name": "Desserts",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "Unlocked by the Merchants questline . Base downgrade: -0.3",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-dough",
+      "output": "Dough",
+      "output_quantity": 20.0,
+      "ingredients": [
+        {
+          "name": "Flour",
+          "quantity": 10.0
+        },
+        {
+          "name": "Water",
+          "quantity": 15.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": null,
+      "time": null,
+      "energy": "- 4",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-fancy-lentil-soup",
+      "output": "Fancy lentil soup",
+      "output_quantity": 2.0,
+      "ingredients": [
+        {
+          "name": "onion",
+          "quantity": 1.0
+        },
+        {
+          "name": "lentils",
+          "quantity": 1.0
+        },
+        {
+          "name": "water",
+          "quantity": 2.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 15.0,
+      "time": "0:55",
+      "energy": "+ 20 , each + 28 , each + 36 , each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-fish-nuggets",
+      "output": "Fish nuggets",
+      "output_quantity": 5.0,
+      "ingredients": [
+        {
+          "name": "White fish fillet",
+          "quantity": 5.0
+        },
+        {
+          "name": "Oil",
+          "quantity": 10.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 10.0,
+      "time": "0:26",
+      "energy": "+ 30 , each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-fish-soup",
+      "output": "Fish soup",
+      "output_quantity": 20.0,
+      "ingredients": [
+        {
+          "name": "White fish fillet",
+          "quantity": 20.0
+        },
+        {
+          "name": "carrot",
+          "quantity": 10.0
+        },
+        {
+          "name": "water",
+          "quantity": 25.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 20.0,
+      "time": "2:00",
+      "energy": "+ 24 , each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-flour",
+      "output": "Flour",
+      "output_quantity": 20.0,
+      "ingredients": [
+        {
+          "name": "Wheat",
+          "quantity": 20.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": null,
+      "time": null,
+      "energy": "- 8",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-fried-egg",
+      "output": "Fried egg",
+      "output_quantity": 5.0,
+      "ingredients": [
+        {
+          "name": "Chicken egg",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 2.0,
+      "time": "0:08",
+      "energy": "+ 13 each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-fuel",
+      "output": "Fuel",
+      "output_quantity": 30.0,
+      "ingredients": [
+        {
+          "name": "Firewood",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": null,
+      "time": null,
+      "energy": null,
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-grape-pie",
+      "output": "Grape pie",
+      "output_quantity": 10.0,
+      "ingredients": [
+        {
+          "name": "Pastry dough",
+          "quantity": 5.0
+        },
+        {
+          "name": "Grapes",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 20.0,
+      "time": "0:45",
+      "energy": "+ 80 , each + 90 , each + 100 , each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-grated-beets",
+      "output": "Grated beets",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Beet",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": null,
+      "time": null,
+      "energy": "- 2",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-grated-carrot",
+      "output": "Grated carrot",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Carrot",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": null,
+      "time": null,
+      "energy": "- 2",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-green-jelly-food",
+      "output": "Green jelly (food)",
+      "output_quantity": 15.0,
+      "ingredients": [
+        {
+          "name": "Green jelly",
+          "quantity": 20.0
+        },
+        {
+          "name": "honey",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "+ 30 each",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-lasagna",
+      "output": "Lasagna",
+      "output_quantity": 15.0,
+      "ingredients": [
+        {
+          "name": "Dough",
+          "quantity": 5.0
+        },
+        {
+          "name": "Lentils",
+          "quantity": 5.0
+        },
+        {
+          "name": "Cabbage",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 20.0,
+      "time": "0:45",
+      "energy": "+ 30 , each + 35 , each + 40 , each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-lentil-cutlets",
+      "output": "Lentil cutlets",
+      "output_quantity": 4.0,
+      "ingredients": [
+        {
+          "name": "Lentils",
+          "quantity": 2.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 10.0,
+      "time": "0:35",
+      "energy": "+ 12 , each + 16 , each + 20 , each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-lentil-porridge",
+      "output": "Lentil porridge",
+      "output_quantity": 4.0,
+      "ingredients": [
+        {
+          "name": "carrot",
+          "quantity": 1.0
+        },
+        {
+          "name": "lentils",
+          "quantity": 1.0
+        },
+        {
+          "name": "onion",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 10.0,
+      "time": "0:50",
+      "energy": "+ 14 each + 18 each + 22 each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-muffin",
+      "output": "Muffin",
+      "output_quantity": 20.0,
+      "ingredients": [
+        {
+          "name": "Dough",
+          "quantity": 5.0
+        },
+        {
+          "name": "Honey",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 40.0,
+      "time": "0:30",
+      "energy": "+ 24 each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-mushroom-patty",
+      "output": "Mushroom patty",
+      "output_quantity": 6.0,
+      "ingredients": [
+        {
+          "name": "Edible mushroom",
+          "quantity": 6.0
+        },
+        {
+          "name": "Dough",
+          "quantity": 2.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 20.0,
+      "time": "0:35",
+      "energy": "+ 8 , each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-nails",
+      "output": "Nails",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Bloody nails",
+          "quantity": 1.0
+        },
+        {
+          "name": "River sand",
+          "quantity": 1.0
+        },
+        {
+          "name": "Water",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": null,
+      "time": null,
+      "energy": "- 2",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-omelette",
+      "output": "Omelette",
+      "output_quantity": 15.0,
+      "ingredients": [
+        {
+          "name": "Chicken egg",
+          "quantity": 15.0
+        },
+        {
+          "name": "Jug of milk",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 10.0,
+      "time": "0:12",
+      "energy": "+ 24 each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-onion-rings",
+      "output": "Onion rings",
+      "output_quantity": 25.0,
+      "ingredients": [
+        {
+          "name": "Oil",
+          "quantity": 5.0
+        },
+        {
+          "name": "Onion",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 10.0,
+      "time": "0:12",
+      "energy": "+ 12 each + 19 each + 24 each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-package-of-meat-1-stamp",
+      "output": "Package of meat 1× Stamp",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Flesh",
+          "quantity": 1.0
+        },
+        {
+          "name": "Clean paper",
+          "quantity": 1.0
+        },
+        {
+          "name": "Stamp",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "Recipe obtained from Horadric .",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-pancakes",
+      "output": "Pancakes",
+      "output_quantity": 25.0,
+      "ingredients": [
+        {
+          "name": "Pastry dough",
+          "quantity": 5.0
+        },
+        {
+          "name": "Jug of milk",
+          "quantity": 5.0
+        },
+        {
+          "name": "Butter",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 20.0,
+      "time": "0:45",
+      "energy": "+ 40 each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-panna-cotta",
+      "output": "Panna cotta",
+      "output_quantity": 4.0,
+      "ingredients": [
+        {
+          "name": "Honey",
+          "quantity": 1.0
+        },
+        {
+          "name": "Jug of milk",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": null,
+      "time": null,
+      "energy": "- 2",
+      "notes": "+ 13 , each",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-pasta",
+      "output": "Pasta",
+      "output_quantity": 15.0,
+      "ingredients": [
+        {
+          "name": "Dough",
+          "quantity": 15.0
+        },
+        {
+          "name": "Cheese",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 80.0,
+      "time": "1:40",
+      "energy": "+ 60 , each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-pastry-dough",
+      "output": "Pastry dough",
+      "output_quantity": 20.0,
+      "ingredients": [
+        {
+          "name": "Flour",
+          "quantity": 10.0
+        },
+        {
+          "name": "Jug of milk",
+          "quantity": 5.0
+        },
+        {
+          "name": "Chicken egg",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": null,
+      "time": null,
+      "energy": "- 6",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-porcelain-funeral-urn",
+      "output": "Porcelain funeral urn",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Porcelain pitcher",
+          "quantity": 1.0
+        },
+        {
+          "name": "Ash",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": null,
+      "time": null,
+      "energy": "- 3",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-pumpkin-soup",
+      "output": "Pumpkin soup",
+      "output_quantity": 20.0,
+      "ingredients": [
+        {
+          "name": "beet",
+          "quantity": 5.0
+        },
+        {
+          "name": "carrot",
+          "quantity": 10.0
+        },
+        {
+          "name": "pumpkin",
+          "quantity": 10.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 80.0,
+      "time": "1:40",
+      "energy": "+ 48 , each + 60 , each + 72 , each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-quality-fish-fillet",
+      "output": "Quality fish fillet",
+      "output_quantity": 5.0,
+      "ingredients": [
+        {
+          "name": "Bream or",
+          "quantity": 5.0
+        },
+        {
+          "name": "Tuna or",
+          "quantity": 5.0
+        },
+        {
+          "name": "Sardine",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-raw-sliced-meat",
+      "output": "Raw sliced meat",
+      "output_quantity": 2.0,
+      "ingredients": [
+        {
+          "name": "Flesh",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-red-jelly",
+      "output": "Red jelly",
+      "output_quantity": 15.0,
+      "ingredients": [
+        {
+          "name": "Green jelly",
+          "quantity": 20.0
+        },
+        {
+          "name": "Berry juice",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "+ 36 each",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-royal-fish",
+      "output": "Royal fish",
+      "output_quantity": 10.0,
+      "ingredients": [
+        {
+          "name": "honey",
+          "quantity": 5.0
+        },
+        {
+          "name": "blue fish fillet",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 10.0,
+      "time": "0:50",
+      "energy": "+ 48 each + 66 each + 84 each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-sandwich",
+      "output": "Sandwich",
+      "output_quantity": 15.0,
+      "ingredients": [
+        {
+          "name": "bread",
+          "quantity": 10.0
+        },
+        {
+          "name": "Baked meat",
+          "quantity": 5.0
+        },
+        {
+          "name": "cabbage",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "+ 20 each",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-toasts-with-onions",
+      "output": "Toasts with onions",
+      "output_quantity": 15.0,
+      "ingredients": [
+        {
+          "name": "Dough",
+          "quantity": 5.0
+        },
+        {
+          "name": "Onion",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 10.0,
+      "time": "0:45",
+      "energy": "+ 13 , each + 19 , each + 24 , each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-vegetable-patty",
+      "output": "Vegetable patty",
+      "output_quantity": 6.0,
+      "ingredients": [
+        {
+          "name": "Pumpkin",
+          "quantity": 1.0
+        },
+        {
+          "name": "Carrot",
+          "quantity": 1.0
+        },
+        {
+          "name": "Dough",
+          "quantity": 2.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 20.0,
+      "time": "0:50",
+      "energy": "+ 12 , each + 15 , each + 18 , each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-vegetable-salad",
+      "output": "Vegetable salad",
+      "output_quantity": 4.0,
+      "ingredients": [
+        {
+          "name": "Onion",
+          "quantity": 1.0
+        },
+        {
+          "name": "Beet",
+          "quantity": 1.0
+        },
+        {
+          "name": "Cabbage",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": null,
+      "time": null,
+      "energy": "- 4",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-vegetable-soup",
+      "output": "Vegetable soup",
+      "output_quantity": 20.0,
+      "ingredients": [
+        {
+          "name": "Cabbage",
+          "quantity": 10.0
+        },
+        {
+          "name": "Carrot",
+          "quantity": 10.0
+        },
+        {
+          "name": "Pumpkin",
+          "quantity": 10.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 60.0,
+      "time": "2:00",
+      "energy": "+ 42 each + 53 each + 66 each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-vegetable-stew",
+      "output": "Vegetable stew",
+      "output_quantity": 4.0,
+      "ingredients": [
+        {
+          "name": "Pumpkin",
+          "quantity": 1.0
+        },
+        {
+          "name": "Beet",
+          "quantity": 1.0
+        },
+        {
+          "name": "Cabbage",
+          "quantity": 2.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": 25.0,
+      "time": "1:00",
+      "energy": "+ 20 , each + 24 , each + 28 , each",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "cooking-white-fish-fillet",
+      "output": "White fish fillet",
+      "output_quantity": 15.0,
+      "ingredients": [
+        {
+          "name": "Perch or",
+          "quantity": 5.0
+        },
+        {
+          "name": "Eel",
+          "quantity": 5.0
+        }
+      ],
+      "station": "Cooking",
+      "fuel": null,
+      "time": null,
+      "energy": "- 5",
+      "notes": "",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Cooking"
+    },
+    {
+      "id": "furnace-2-iron-ingot",
+      "output": "* 2× Iron ingot",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Iron ore",
+          "quantity": 2.0
+        }
+      ],
+      "station": "Furnace",
+      "fuel": 40.0,
+      "time": "4:10",
+      "energy": null,
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Furnace"
+    },
+    {
+      "id": "furnace-ceramic-jug",
+      "output": "Ceramic jug",
+      "output_quantity": 10.0,
+      "ingredients": [
+        {
+          "name": "Ceramic bowls",
+          "quantity": 10.0
+        }
+      ],
+      "station": "Furnace",
+      "fuel": 20.0,
+      "time": "2:30",
+      "energy": null,
+      "notes": "+ 1",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Furnace"
+    },
+    {
+      "id": "furnace-glass",
+      "output": "Glass",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Broken Glass",
+          "quantity": 1.0
+        }
+      ],
+      "station": "Furnace",
+      "fuel": 15.0,
+      "time": "0:30",
+      "energy": null,
+      "notes": "+ 1",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Furnace"
+    },
+    {
+      "id": "furnace-iron-ingot",
+      "output": "Iron ingot",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Metal scrap",
+          "quantity": 10.0
+        }
+      ],
+      "station": "Furnace",
+      "fuel": 15.0,
+      "time": "0:40",
+      "energy": null,
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Furnace"
+    },
+    {
+      "id": "furnace-porcelain-pitcher",
+      "output": "Porcelain pitcher",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "Ceramic jug",
+          "quantity": 1.0
+        },
+        {
+          "name": "White powder",
+          "quantity": 2.0
+        }
+      ],
+      "station": "Furnace",
+      "fuel": 20.0,
+      "time": "2:30",
+      "energy": null,
+      "notes": "+ 2",
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Furnace"
+    },
+    {
+      "id": "furnace-upgrade-to-furnace-ii",
+      "output": "Upgrade to Furnace II",
+      "output_quantity": 1.0,
+      "ingredients": [
+        {
+          "name": "A piece of stone",
+          "quantity": 6.0
+        },
+        {
+          "name": "Complex iron parts",
+          "quantity": 2.0
+        },
+        {
+          "name": "Pigskin paper",
+          "quantity": 2.0
+        }
+      ],
+      "station": "Furnace",
+      "fuel": null,
+      "time": null,
+      "energy": "- 50",
+      "notes": null,
+      "source_url": "https://graveyardkeeper.fandom.com/wiki/Furnace"
+    }
+  ]
+}
